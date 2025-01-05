@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"20:20:41","85accc6c-2e6a-4d5b-a32b-3c5ce5feb42e","YsHARD","9821e0d6-9fbb-42d8-9a39-9fa5bba4493d","trade","gmgame","-451","67","42","6e0b1201-33be-4bfc-a937-b3d112db6eef","ChancellorIkseew","DEEPSLATE_DIAMOND_ORE","1","{v: 3465}","","","","EMERALD_BLOCK","40","{v: 3465}","1"

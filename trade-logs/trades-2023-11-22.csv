@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"23:18:41","f6dc50c2-d813-4028-a30d-dc990b72f4dd","polycondensation","0f549083-d389-49d2-9398-749eb8a73928","trade","gmgame","-201","65","-45","eff30a08-79fd-476e-b78c-ad8c4c5f7414","BlackPirat","DEEPSLATE_DIAMOND_ORE","4","{v: 3465}","","","","TRIDENT","1","{v: 3465}","1"

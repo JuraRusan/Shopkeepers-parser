@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"13:12:08","0d7c6f86-f3f2-4714-bd54-0c46b848701f","_KreST1k","f1a2c894-446c-4d9c-a7c1-7946d9f42964","trade","gmgame","-344","82","-8","bd5694a8-239c-4b38-9a79-e3637f7e5084","Niksa_Viento","DEEPSLATE_DIAMOND_ORE","3","{v: 3465}","","","","MANGROVE_LEAVES","64","{v: 3465}","3"

@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"08:57:41","8cff66bb-155b-4d11-acf2-ea954720ad4c","kermitik","526a7f2b-c457-4ca3-98e2-5027fcbc97ed","trade","gmgame","-189","69","-92","e7fddd2d-6a2b-4d00-a247-687037f23d76","gerhugwsif","DEEPSLATE_DIAMOND_ORE","2","{v: 3465}","","","","ENDER_CHEST","1","{v: 3465}","1"

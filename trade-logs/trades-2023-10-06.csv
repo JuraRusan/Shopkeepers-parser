@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"15:29:31","85accc6c-2e6a-4d5b-a32b-3c5ce5feb42e","V_HARD","574ab1b5-f6f2-455b-87a1-b1489ba42d96","trade","gmgame","-198","84","53","227622ed-5a18-45b0-868e-0c4fb54fb342","Vonderan","DEEPSLATE_DIAMOND_ORE","1","{v: 3465}","","","","EMERALD_BLOCK","64","{v: 3465}","2"

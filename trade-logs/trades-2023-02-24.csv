@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"16:29:17","420c13fb-edda-4782-a601-f6ea0316dea7","Awan_Weller","3408bc3b-5c80-4b27-bfe2-112b45667ee8","trade","gmgame","-196","89","15","295c473d-8e7b-4dc3-ab8a-a8d57693e54f","Blackirita","DEEPSLATE_DIAMOND_ORE","1","{v: 3120}","","","","TOTEM_OF_UNDYING","1","{v: 3120}","2"

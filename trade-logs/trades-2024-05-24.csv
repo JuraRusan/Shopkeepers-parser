@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"09:22:00","0d7c6f86-f3f2-4714-bd54-0c46b848701f","_KreST1k","93434c89-9cc0-4234-8144-f88d94786df7","trade","gmgame","-337","84","-38","7f7763ac-5fba-439e-acaa-b8b8a05ea4fa","prestig9110","DEEPSLATE_DIAMOND_ORE","2","{v: 3465}","","","","GLOW_LICHEN","32","{v: 3465}","2"

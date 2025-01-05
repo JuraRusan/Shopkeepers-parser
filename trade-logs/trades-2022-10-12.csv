@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"16:35:31","88a67e75-71f1-448f-929f-3797f27df524","mirage3000","10376a82-86c2-4847-9fad-c3fc6e5ea78d","trade","gmgame","-407","75","-38","f38077cb-1bde-470b-8664-3477ddf10c7b","_JohngeaR_","DEEPSLATE_DIAMOND_ORE","10","{v: 3120}","","","","NETHERITE_INGOT","1","{v: 3120}","1"

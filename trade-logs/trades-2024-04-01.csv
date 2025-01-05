@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"15:31:40","941bff3d-dae5-4dea-a049-34e18b57a15f","IoanFlu","6ddb6aea-7157-41a3-95dd-ce16e4c750d8","trade","gmgame","-313","86","107","45911b02-1316-46bd-acd3-fa4e43139fd6","ThreeASix","DEEPSLATE_DIAMOND_ORE","1","{v: 3465}","","","","SHULKER_SHELL","12","{v: 3465}","5"

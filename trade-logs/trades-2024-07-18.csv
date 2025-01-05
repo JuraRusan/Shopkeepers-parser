@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"17:20:24","bae715aa-5505-401f-96db-d748ed00217a","Cytrynid","27296adf-23af-4912-876e-35500f02fc17","trade","gmgame","-360","78","56","52e62b5f-f20c-464e-a722-22c064fbe049","_Kerubifi_","DEEPSLATE_DIAMOND_ORE","12","{v: 3465}","","","","NETHERITE_INGOT","1","{v: 3465}","1"

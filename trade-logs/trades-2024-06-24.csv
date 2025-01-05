@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"22:18:19","40e3e828-aedb-49ff-8681-0781ef218987","PlayWithCat","811e2714-e3de-4381-bec2-2b554bf4b172","trade","gmgame","-198","84","53","7ec8b565-2af1-461d-9091-96ff72d32dd5","IronCAT_","DIAMOND","3","{v: 3465}","","","","DEEPSLATE_DIAMOND_ORE","1","{v: 3465}","14"

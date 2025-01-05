@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"20:45:20","337f4edd-a652-485f-b5f3-8fa1fb87e230","BlitzCringe","6d7ee91c-acaf-45b5-bfc6-b1805177b3f5","trade","gmgame","-292","85","-22","bd5694a8-239c-4b38-9a79-e3637f7e5084","Niksa_Viento","DEEPSLATE_DIAMOND_ORE","16","{v: 3465}","","","","SHROOMLIGHT","64","{v: 3465}","1"
