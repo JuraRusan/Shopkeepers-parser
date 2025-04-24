@@ -9,6 +9,7 @@
     "better-sqlite3": "^11.0.0",
     "buffer": "^6.0.3",
     "color-convert": "^2.0.1",
+    "discord.js": "^14.18.0",
     "fs-extra": "^11.2.0",
     "http": "^0.0.1-security",
     "ioredis": "^5.4.1",
