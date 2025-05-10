@@ -45,15 +45,28 @@ let bannerKeySingle = bannersKey
   .filter((key) => key.includes("white"))
   .map((el) => el.replace("block.minecraft.banner.", "").replace(".white", ""));
 
-// redis.set("item_edit_enchantments", JSON.stringify(enchantmentsValue, null, 2));
-// redis.set("item_edit_colors", JSON.stringify(colorsValue, null, 2));
-// redis.set("item_edit_trim_patterns", JSON.stringify(trimPatternsValue, null, 2));
-// redis.set("item_edit_trim_materials", JSON.stringify(trimMaterialsValue, null, 2));
-// redis.set("item_edit_banners", JSON.stringify(bannersValue, null, 2));
-// redis.set("item_edit_banner_patterns", JSON.stringify(bannerKeySingle, null, 2));
-// redis.set("item_edit_shields", JSON.stringify(shieldsValue, null, 2));
+let blocksKeys = keys.filter((key) => key.includes("block.minecraft"));
+let blocksValues = blocksKeys.reduce((result, key) => {
+  result[key.replace("block.minecraft.", "")] = jsonData[key];
+  return result;
+}, {});
 
-console.log(shieldValue);
+let itemsKeys = keys.filter((key) => key.includes("item.minecraft"));
+let itemsValues = itemsKeys.reduce((result, key) => {
+  result[key.replace("item.minecraft.", "")] = jsonData[key];
+  return result;
+}, {});
+
+console.log({ ...blocksValues, ...itemsValues });
+
+redis.set("item_edit_enchantments", JSON.stringify(enchantmentsValue, null, 2));
+redis.set("item_edit_colors", JSON.stringify(colorsValue, null, 2));
+redis.set("item_edit_trim_patterns", JSON.stringify(trimPatternsValue, null, 2));
+redis.set("item_edit_trim_materials", JSON.stringify(trimMaterialsValue, null, 2));
+redis.set("item_edit_banners", JSON.stringify(bannersValue, null, 2));
+redis.set("item_edit_banner_patterns", JSON.stringify(bannerKeySingle, null, 2));
+redis.set("item_edit_shields", JSON.stringify(shieldsValue, null, 2));
+redis.set("item_edit_items_all", JSON.stringify({ ...blocksValues, ...itemsValues }, null, 2));
 
 // let discsKey = keys.filter((key) => key.includes("item.minecraft.music_disc_")).filter((key) => key.includes(".desc"));
 // let discsValue = discsKey.reduce((result, key) => {
@@ -71,3 +84,5 @@ console.log(shieldValue);
 //   result[key.replace("block.minecraft.banner.", "").replace(".white", "")] = str.join(" ");
 //   return result;
 // }, {});
+
+redis.quit();
