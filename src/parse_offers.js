@@ -2,7 +2,8 @@ import fs from "fs-extra";
 import yaml from "js-yaml";
 import Redis from "ioredis";
 
-import { generate21 } from "./1.21/generate.js";
+import { parseYamlStructure } from "./functions/main.js";
+import { replaceString } from "./functions/functions.js";
 
 const redis = new Redis();
 
@@ -33,9 +34,9 @@ async function selectOffers(data) {
             id: i,
             shop_id: shopId,
             // prettier-ignore
-            resultItem: blockOffer.resultItem ? await generate21(blockOffer.resultItem, languages, shopId, i, search) : {},
-            item1: blockOffer.item1 ? await generate21(blockOffer.item1, languages, shopId, i, search) : {},
-            item2: blockOffer.item2 ? await generate21(blockOffer.item2, languages, shopId, i, search) : {},
+            resultItem: blockOffer.resultItem ? await parseYamlStructure(blockOffer.resultItem, languages, shopId, i, search) : {},
+            item1: blockOffer.item1 ? await parseYamlStructure(blockOffer.item1, languages, shopId, i, search) : {},
+            item2: blockOffer.item2 ? await parseYamlStructure(blockOffer.item2, languages, shopId, i, search) : {},
           });
         })
       );
@@ -69,7 +70,11 @@ async function selectOffers(data) {
     return obj;
   }
 
-  return { lang: languages, value: selectedData, src: removeDuplicates(search) };
+  return {
+    lang: languages,
+    value: selectedData.sort((a, b) => Number(a.id) - Number(b.id)),
+    src: removeDuplicates(search),
+  };
 }
 
 async function selectShops(data) {
@@ -86,8 +91,8 @@ async function selectShops(data) {
         name: dataObject.name,
         owner: dataObject.owner,
         offers: Object.keys(dataObject.offers).length,
-        object_profession: dataObject.object ? dataObject.object.profession.replace("minecraft:", "") : null,
-        object_villager_type: dataObject.object ? dataObject.object.villagerType.replace("minecraft:", "") : null,
+        object_profession: dataObject.object ? await replaceString(dataObject.object.profession) : null,
+        object_villager_type: dataObject.object ? await replaceString(dataObject.object.villagerType) : null,
       };
     }
   }
@@ -105,4 +110,9 @@ async function selectShops(data) {
   await redis.set("shopkeepers_shops", JSON.stringify(shopsData, null, 2));
 
   redis.quit();
+
+  fs.writeFile(`./src/debug.yml`, JSON.stringify(shopsData, null, 2));
+  fs.writeFile(`./src/debug1.yml`, JSON.stringify(offersData.value, null, 2));
+  fs.writeFile(`./src/debug2.yml`, JSON.stringify(offersData.lang, null, 2));
+  fs.writeFile(`./src/debug3.yml`, JSON.stringify(offersData.src, null, 2));
 })();

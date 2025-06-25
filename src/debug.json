@@ -1,0 +1,781 @@
+[
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:trial_spawner"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:spawner"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:llama_spawn_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:ghast_spawn_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:allay_spawn_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:blaze_spawn_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:cow_spawn_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:cave_spider_spawn_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:hoglin_spawn_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:parrot_spawn_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:pig_spawn_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:jukebox"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:redstone_ore"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:tnt"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:crafter"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:brown_banner"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:purple_wool"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:cobweb"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:bedrock"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:sculk_catalyst"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:bubble_coral_block"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:sunflower"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:cherry_sapling"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:pale_hanging_moss"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:lime_banner"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:dragon_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:vault"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:piglin_head"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:dragon_head"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:zombie_head"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:tinted_glass"
+  },
+  {
+    "count": {
+      "value": 2
+    },
+    "id": "minecraft:decorated_pot"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:flower_pot"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:blue_egg"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:wind_charge"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:snowball"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:end_crystal"
+  },
+  {
+    "components": {
+      "minecraft:fireworks": {
+        "flight_duration": {
+          "value": 3
+        }
+      }
+    },
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:firework_rocket"
+  },
+  {
+    "components": {
+      "minecraft:potion_contents": {
+        "potion": "minecraft:water"
+      }
+    },
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:tipped_arrow"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:rib_armor_trim_smithing_template"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:silence_armor_trim_smithing_template"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:heart_pottery_sherd"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:friend_pottery_sherd"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:burn_pottery_sherd"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:fire_charge"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:lime_wool"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:waxed_cut_copper_slab"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:weathered_copper_bulb"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:waxed_copper_grate"
+  },
+  {
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:netherite_block"
+  },
+  {
+    "components": {
+      "minecraft:lore": [
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "white",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "white",
+              "text": "r"
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "white",
+              "strikethrough": {
+                "value": 1
+              },
+              "text": "em"
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#222222",
+              "strikethrough": {
+                "value": 1
+              },
+              "text": " ipsum dolor sit amet,"
+            }
+          ],
+          "italic": {
+            "value": 0
+          },
+          "text": "Lo"
+        },
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "#222222",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#222222",
+              "italic": {
+                "value": 0
+              },
+              "strikethrough": {
+                "value": 1
+              },
+              "text": "ctetur adipiscing elit, sed do"
+            }
+          ],
+          "strikethrough": {
+            "value": 1
+          },
+          "text": "conse"
+        },
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "#222222",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#222222",
+              "strikethrough": {
+                "value": 1
+              },
+              "text": "od "
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#222222",
+              "strikethrough": {
+                "value": 1
+              },
+              "text": "tem"
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#99FFCC",
+              "strikethrough": {
+                "value": 1
+              },
+              "text": "por incididunt ut labore"
+            }
+          ],
+          "italic": {
+            "value": 0
+          },
+          "strikethrough": {
+            "value": 1
+          },
+          "text": "eiusm"
+        },
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "#99FFCC",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#99FFCC",
+              "text": "re magna aliqua. Ut enim ad"
+            }
+          ],
+          "strikethrough": {
+            "value": 1
+          },
+          "text": "et dolo"
+        },
+        "",
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "#99FFCC",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#99FFCC",
+              "italic": {
+                "value": 0
+              },
+              "text": "m, qu"
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#99FFCC",
+              "italic": {
+                "value": 0
+              },
+              "text": "is nostrud",
+              "underlined": {
+                "value": 1
+              }
+            }
+          ],
+          "text": "minim venia"
+        },
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "#99FFCC",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "white",
+              "italic": {
+                "value": 0
+              },
+              "text": " laboris nisi ut",
+              "underlined": {
+                "value": 1
+              }
+            }
+          ],
+          "italic": {
+            "value": 0
+          },
+          "text": "exercitation ullamco",
+          "underlined": {
+            "value": 1
+          }
+        },
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "white",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "dark_green",
+              "italic": {
+                "value": 0
+              },
+              "text": "ommodo",
+              "underlined": {
+                "value": 1
+              }
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "dark_green",
+              "italic": {
+                "value": 0
+              },
+              "text": " consequat."
+            }
+          ],
+          "italic": {
+            "value": 0
+          },
+          "text": "aliquip ex ea c",
+          "underlined": {
+            "value": 1
+          }
+        },
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "dark_green",
+          "italic": {
+            "value": 0
+          },
+          "text": "Duis aute irure dolor in"
+        },
+        "",
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "dark_green",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "dark_green",
+              "italic": {
+                "value": 0
+              },
+              "strikethrough": {
+                "value": 1
+              },
+              "text": "eprehenderit in voluptate velit"
+            }
+          ],
+          "italic": {
+            "value": 0
+          },
+          "text": "r"
+        },
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "dark_green",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "dark_green",
+              "italic": {
+                "value": 0
+              },
+              "strikethrough": {
+                "value": 1
+              },
+              "text": "se cillum dolore",
+              "underlined": {
+                "value": 1
+              }
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#0033FF",
+              "italic": {
+                "value": 0
+              },
+              "strikethrough": {
+                "value": 1
+              },
+              "text": " eu fugiat nulla",
+              "underlined": {
+                "value": 1
+              }
+            }
+          ],
+          "italic": {
+            "value": 0
+          },
+          "strikethrough": {
+            "value": 1
+          },
+          "text": "es"
+        },
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "#0033FF",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#0033FF",
+              "italic": {
+                "value": 0
+              },
+              "strikethrough": {
+                "value": 1
+              },
+              "text": "ur. Exc",
+              "underlined": {
+                "value": 1
+              }
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "#0033FF",
+              "italic": {
+                "value": 0
+              },
+              "text": "epteur sint occaecat",
+              "underlined": {
+                "value": 1
+              }
+            }
+          ],
+          "italic": {
+            "value": 0
+          },
+          "strikethrough": {
+            "value": 1
+          },
+          "text": "pariat",
+          "underlined": {
+            "value": 1
+          }
+        },
+        "",
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "#0033FF",
+          "italic": {
+            "value": 0
+          },
+          "text": "cupidatat non proident, sunt in",
+          "underlined": {
+            "value": 1
+          }
+        },
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "#0033FF",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "white",
+              "italic": {
+                "value": 0
+              },
+              "text": "ru",
+              "underlined": {
+                "value": 1
+              }
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "white",
+              "italic": {
+                "value": 0
+              },
+              "text": "nt mollit"
+            }
+          ],
+          "italic": {
+            "value": 0
+          },
+          "text": "culpa qui officia dese",
+          "underlined": {
+            "value": 1
+          }
+        },
+        {
+          "bold": {
+            "value": 1
+          },
+          "color": "white",
+          "extra": [
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "white",
+              "italic": {
+                "value": 0
+              },
+              "text": "b",
+              "underlined": {
+                "value": 1
+              }
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "white",
+              "italic": {
+                "value": 0
+              },
+              "strikethrough": {
+                "value": 1
+              },
+              "text": "o"
+            },
+            {
+              "bold": {
+                "value": 1
+              },
+              "color": "white",
+              "italic": {
+                "value": 0
+              },
+              "text": "rum."
+            }
+          ],
+          "italic": {
+            "value": 0
+          },
+          "text": "anim id est la"
+        }
+      ]
+    },
+    "count": {
+      "value": 1
+    },
+    "id": "minecraft:acacia_sapling"
+  }
+]
