@@ -1,11 +1,12 @@
 import Redis from "ioredis";
-import { generate20 } from "./1.20/generate.js";
-import { generate21 } from "./1.21/generate.js";
+import fs from "fs-extra";
+import { parseOld } from "./functions/old.js";
+import { parseYamlStructure } from "./functions/main.js";
 import { getShopkeepersCsvAllLogs } from "../server/RedisRequest.js";
 
 const redis = new Redis();
 
-const update = 1724360400; // Переход сервера на 1.21
+const update = 1748166747000; // cплит старого формата
 
 async function selectLogs(data) {
   const selectedData = {};
@@ -16,25 +17,18 @@ async function selectLogs(data) {
     let item2 = {};
     let lang = {};
 
-    const convertDateToUnix = (dateStr) => {
-      const [day, month, year] = dateStr.split(".").map(Number);
-      const date = new Date(Date.UTC(year, month - 1, day));
-
-      return Math.floor(date.getTime() / 1000);
-    };
-
     // < 1.21
-    if (update > convertDateToUnix(el.data)) {
-      resultItem = el.resultItem ? await generate20(el.resultItem, lang) : {};
-      item1 = el.item1 ? await generate20(el.item1, lang) : {};
-      item2 = el.item2 ? await generate20(el.item2, lang) : {};
+    if (update > el.time) {
+      item1 = el.item1 ? await parseOld(el.item1) : {};
+      item2 = el.item2 ? await parseOld(el.item2) : {};
+      resultItem = el.resultItem ? await parseOld(el.resultItem) : {};
     }
 
     // 1.21 >
-    if (update < convertDateToUnix(el.data)) {
-      resultItem = el.resultItem ? await generate21(el.resultItem, lang) : {};
-      item1 = el.item1 ? await generate21(el.item1, lang) : {};
-      item2 = el.item2 ? await generate21(el.item2, lang) : {};
+    if (update < el.time) {
+      item1 = el.item1 ? await parseYamlStructure(el.item1, lang) : {};
+      item2 = el.item2 ? await parseYamlStructure(el.item2, lang) : {};
+      resultItem = el.resultItem ? await parseYamlStructure(el.resultItem, lang) : {};
     }
 
     if (selectedData[el.shop_uuid]) {
@@ -72,9 +66,11 @@ async function selectLogs(data) {
 }
 
 (async () => {
-  const dataAll = await getShopkeepersCsvAllLogs();
-  const logs = await selectLogs(dataAll);
+  const logs = await selectLogs(await getShopkeepersCsvAllLogs());
 
   await redis.set("shopkeepers_traders_log", JSON.stringify(logs, null, 2));
+
+  fs.writeFile(`./src/debug_logs_3.json`, JSON.stringify(logs, null, 2));
+
   redis.quit();
 })();

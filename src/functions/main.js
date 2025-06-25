@@ -16,6 +16,8 @@ import {
 import { stringify } from "nbt-ts";
 
 export async function parseYamlStructure(arg, lang, shop, offer, src) {
+  console.log(arg);
+  console.log("------------------------------------------------------------------------------------------------");
   return {
     id:
       arg.components && arg.components["minecraft:potion_contents"]
@@ -38,12 +40,11 @@ export async function parseYamlStructure(arg, lang, shop, offer, src) {
       arg.components && arg.components["minecraft:lore"]
         ? await convertLore(arg.components["minecraft:lore"])
         : undefined,
-    firework_power:
-      arg.id === "minecraft:firework_rocket"
-        ? arg.components && arg.components["minecraft:fireworks"]
-          ? await convertFirework(arg.components["minecraft:fireworks"])
-          : 1
-        : undefined,
+    firework_power: arg.id.includes("firework_rocket")
+      ? arg.components && arg.components["minecraft:fireworks"]
+        ? await convertFirework(arg.components["minecraft:fireworks"])
+        : 1
+      : undefined,
     enchant:
       (arg.components && arg.components["minecraft:enchantments"]
         ? await convertEnchantments(arg.components["minecraft:enchantments"], lang, shop, offer, src)
@@ -93,12 +94,11 @@ export async function parseContainerStructure(arg, lang, shop, offer, src) {
       arg.components && arg.components["minecraft:lore"]
         ? await convertLore(stringify(arg.components["minecraft:lore"]))
         : undefined,
-    firework_power:
-      arg.id === "minecraft:firework_rocket"
-        ? arg.components && arg.components["minecraft:fireworks"]
-          ? await convertFirework(stringify(arg.components["minecraft:fireworks"]))
-          : 1
-        : undefined,
+    firework_power: arg.id.includes("firework_rocket")
+      ? arg.components && arg.components["minecraft:fireworks"]
+        ? await convertFirework(stringify(arg.components["minecraft:fireworks"]))
+        : 1
+      : undefined,
     enchant:
       (arg.components && arg.components["minecraft:enchantments"]
         ? await convertEnchantments(stringify(arg.components["minecraft:enchantments"]), lang, shop, offer, src)

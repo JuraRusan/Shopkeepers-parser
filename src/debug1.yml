@@ -5,18 +5,18 @@
     "resultItem": {
       "id": "firework_rocket",
       "amount": 2,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "firework_power": 1
     },
     "item1": {
       "id": "firework_rocket",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "firework_power": 1
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -24,8 +24,8 @@
     "resultItem": {
       "id": "diamond_axe",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "enchant": [
         {
           "id": "aqua_affinity",
@@ -200,8 +200,8 @@
     "item1": {
       "id": "diamond_axe",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "enchant": [
         {
           "id": "aqua_affinity",
@@ -373,7 +373,7 @@
         }
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -381,18 +381,18 @@
     "resultItem": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "ponder_goat_horn"
     },
     "item1": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "ponder_goat_horn"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -400,16 +400,16 @@
     "resultItem": {
       "id": "netherite_chestplate",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "netherite_chestplate",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -417,16 +417,16 @@
     "resultItem": {
       "id": "leather_helmet",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "leather_helmet",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -434,8 +434,8 @@
     "resultItem": {
       "id": "white_banner",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "banner_pattern": [
         {
           "color": "cyan",
@@ -474,8 +474,8 @@
     "item1": {
       "id": "white_banner",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "banner_pattern": [
         {
           "color": "cyan",
@@ -511,7 +511,7 @@
         }
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -519,16 +519,16 @@
     "resultItem": {
       "id": "shield",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "shield",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -536,16 +536,16 @@
     "resultItem": {
       "id": "tipped_arrow_water",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "tipped_arrow_water",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -553,16 +553,16 @@
     "resultItem": {
       "id": "potion_water",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "potion_water",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -570,16 +570,16 @@
     "resultItem": {
       "id": "splash_potion_water",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "splash_potion_water",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -587,16 +587,16 @@
     "resultItem": {
       "id": "lingering_potion_water",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "lingering_potion_water",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -604,18 +604,18 @@
     "resultItem": {
       "id": "acacia_wood",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
     },
     "item1": {
       "id": "acacia_wood",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -623,8 +623,8 @@
     "resultItem": {
       "id": "acacia_sapling",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "lore": [
         "<b>Lo</b><b>r</b><s><b>em </b></s><span style=\"color:#00AA00\"><s><b>ipsum dolor sit amet,</b></s></span>",
         "<span style=\"color:#00AA00\"><s><b>conse</b></s></span><span style=\"color:#00AA00\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -648,8 +648,8 @@
     "item1": {
       "id": "acacia_sapling",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "lore": [
         "<b>Lo</b><b>r</b><s><b>em </b></s><span style=\"color:#00AA00\"><s><b>ipsum dolor sit amet,</b></s></span>",
         "<span style=\"color:#00AA00\"><s><b>conse</b></s></span><span style=\"color:#00AA00\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -670,7 +670,7 @@
         "<b>anim id est laborum.</b>"
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -678,222 +678,222 @@
     "resultItem": {
       "id": "white_bundle",
       "amount": 1,
-      "content": [],
+      "content": [ ],
       "bundle": [
         {
           "pos": 0,
           "id": "lily_of_the_valley",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 1,
           "id": "wither_rose",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 2,
           "id": "open_eyeblossom",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 3,
           "id": "closed_eyeblossom",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 4,
           "id": "warped_fungus",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 5,
           "id": "pale_hanging_moss",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 6,
           "id": "honeycomb",
           "amount": 2,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 7,
           "id": "fire_charge",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 8,
           "id": "heart_of_the_sea",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 9,
           "id": "nautilus_shell",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 10,
           "id": "panda_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 11,
           "id": "redstone_torch",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 12,
           "id": "coal",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 13,
           "id": "flint",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 14,
           "id": "bone",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 15,
           "id": "lead",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 16,
           "id": "bone_meal",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ]
     },
     "item1": {
       "id": "white_bundle",
       "amount": 1,
-      "content": [],
+      "content": [ ],
       "bundle": [
         {
           "pos": 0,
           "id": "lily_of_the_valley",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 1,
           "id": "wither_rose",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 2,
           "id": "open_eyeblossom",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 3,
           "id": "closed_eyeblossom",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 4,
           "id": "warped_fungus",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 5,
           "id": "pale_hanging_moss",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 6,
           "id": "honeycomb",
           "amount": 2,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 7,
           "id": "fire_charge",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 8,
           "id": "heart_of_the_sea",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 9,
           "id": "nautilus_shell",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 10,
           "id": "panda_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 11,
           "id": "redstone_torch",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 12,
           "id": "coal",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 13,
           "id": "flint",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 14,
           "id": "bone",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 15,
           "id": "lead",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 16,
           "id": "bone_meal",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "1",
@@ -906,28 +906,28 @@
           "slot": 0,
           "id": "netherite_upgrade_smithing_template",
           "amount": 64,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "sentry_armor_trim_smithing_template",
           "amount": 64,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "bolt_armor_trim_smithing_template",
           "amount": 64,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "flow_armor_trim_smithing_template",
           "amount": 64,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -937,30 +937,30 @@
           "slot": 0,
           "id": "netherite_upgrade_smithing_template",
           "amount": 64,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "sentry_armor_trim_smithing_template",
           "amount": 64,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "bolt_armor_trim_smithing_template",
           "amount": 64,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "flow_armor_trim_smithing_template",
           "amount": 64,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -968,18 +968,18 @@
     "resultItem": {
       "id": "firework_rocket",
       "amount": 2,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "firework_power": 2
     },
     "item1": {
       "id": "firework_rocket",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "firework_power": 2
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -992,7 +992,7 @@
           "slot": 0,
           "id": "diamond_axe",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "enchant": [
             {
               "id": "aqua_affinity",
@@ -1165,7 +1165,7 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "magenta_shulker_box",
@@ -1175,7 +1175,7 @@
           "slot": 0,
           "id": "diamond_axe",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "enchant": [
             {
               "id": "aqua_affinity",
@@ -1348,9 +1348,9 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1358,18 +1358,18 @@
     "resultItem": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "sing_goat_horn"
     },
     "item1": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "sing_goat_horn"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1377,16 +1377,16 @@
     "resultItem": {
       "id": "diamond",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "diamond",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1394,16 +1394,16 @@
     "resultItem": {
       "id": "leather_chestplate",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "leather_chestplate",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1416,7 +1416,7 @@
           "slot": 0,
           "id": "white_banner",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "banner_pattern": [
             {
               "color": "cyan",
@@ -1453,7 +1453,7 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "black_shulker_box",
@@ -1463,7 +1463,7 @@
           "slot": 0,
           "id": "white_banner",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "banner_pattern": [
             {
               "color": "cyan",
@@ -1500,9 +1500,9 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1510,18 +1510,18 @@
     "resultItem": {
       "id": "shield",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "shield": "blue"
     },
     "item1": {
       "id": "shield",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "shield": "blue"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1529,16 +1529,16 @@
     "resultItem": {
       "id": "tipped_arrow_mundane",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "tipped_arrow_mundane",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1546,16 +1546,16 @@
     "resultItem": {
       "id": "potion_mundane",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "potion_mundane",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1563,16 +1563,16 @@
     "resultItem": {
       "id": "splash_potion_mundane",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "splash_potion_mundane",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1580,16 +1580,16 @@
     "resultItem": {
       "id": "lingering_potion_mundane",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "lingering_potion_mundane",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1602,193 +1602,193 @@
           "slot": 0,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 1,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 2,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 3,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 4,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 5,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 6,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 7,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 8,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 9,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 10,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 11,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 12,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 13,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 14,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 15,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 16,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 17,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 18,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 19,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 20,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 21,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 22,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 23,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 24,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 25,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 26,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -1798,195 +1798,195 @@
           "slot": 0,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 1,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 2,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 3,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 4,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 5,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 6,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 7,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 8,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 9,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 10,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 11,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 12,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 13,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 14,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 15,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 16,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 17,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 18,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 19,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 20,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 21,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 22,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 23,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 24,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 25,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         },
         {
           "slot": 26,
           "id": "acacia_wood",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "minecraft_custom": "<b>C</b><b>u</b><u>s</u><s>t</s>om <b>na</b><u><b>m</b></u><u>e</u> l<span style=\"color:#0000AA\">ore</span><span style=\"color:#00AA00\">m</span> <span style=\"color:#CC9999\">co</span><span style=\"color:#55FFFF\">l</span><span style=\"color:#AA00AA\">o</span>r"
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -1999,7 +1999,7 @@
           "slot": 0,
           "id": "acacia_sapling",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<b>Lo</b><b>r</b><s><b>em </b></s><span style=\"color:#00AA00\"><s><b>ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#00AA00\"><s><b>conse</b></s></span><span style=\"color:#00AA00\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -2021,7 +2021,7 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -2031,7 +2031,7 @@
           "slot": 0,
           "id": "acacia_sapling",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<b>Lo</b><b>r</b><s><b>em </b></s><span style=\"color:#00AA00\"><s><b>ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#00AA00\"><s><b>conse</b></s></span><span style=\"color:#00AA00\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -2053,9 +2053,9 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -2063,210 +2063,210 @@
     "resultItem": {
       "id": "bundle",
       "amount": 1,
-      "content": [],
+      "content": [ ],
       "bundle": [
         {
           "pos": 0,
           "id": "tripwire_hook",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 1,
           "id": "waxed_weathered_copper_bulb",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 2,
           "id": "decorated_pot",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 3,
           "id": "composter",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 4,
           "id": "observer",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 5,
           "id": "note_block",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 6,
           "id": "chest",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 7,
           "id": "lightning_rod",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 8,
           "id": "daylight_detector",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 9,
           "id": "light_weighted_pressure_plate",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 10,
           "id": "heavy_weighted_pressure_plate",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 11,
           "id": "turtle_scute",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 12,
           "id": "gold_ingot",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 13,
           "id": "netherite_ingot",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 14,
           "id": "lead",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 15,
           "id": "bone_meal",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ]
     },
     "item1": {
       "id": "bundle",
       "amount": 1,
-      "content": [],
+      "content": [ ],
       "bundle": [
         {
           "pos": 0,
           "id": "tripwire_hook",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 1,
           "id": "waxed_weathered_copper_bulb",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 2,
           "id": "decorated_pot",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 3,
           "id": "composter",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 4,
           "id": "observer",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 5,
           "id": "note_block",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 6,
           "id": "chest",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 7,
           "id": "lightning_rod",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 8,
           "id": "daylight_detector",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 9,
           "id": "light_weighted_pressure_plate",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 10,
           "id": "heavy_weighted_pressure_plate",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 11,
           "id": "turtle_scute",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 12,
           "id": "gold_ingot",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 13,
           "id": "netherite_ingot",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 14,
           "id": "lead",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 15,
           "id": "bone_meal",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "2",
@@ -2274,16 +2274,16 @@
     "resultItem": {
       "id": "netherite_upgrade_smithing_template",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "netherite_upgrade_smithing_template",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2291,18 +2291,18 @@
     "resultItem": {
       "id": "firework_rocket",
       "amount": 2,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "firework_power": 3
     },
     "item1": {
       "id": "firework_rocket",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "firework_power": 3
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2310,8 +2310,8 @@
     "resultItem": {
       "id": "enchanted_book",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "enchant": [
         {
           "id": "aqua_affinity",
@@ -2486,8 +2486,8 @@
     "item1": {
       "id": "enchanted_book",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "enchant": [
         {
           "id": "aqua_affinity",
@@ -2659,7 +2659,7 @@
         }
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2667,18 +2667,18 @@
     "resultItem": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "seek_goat_horn"
     },
     "item1": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "seek_goat_horn"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2686,8 +2686,8 @@
     "resultItem": {
       "id": "netherite_chestplate",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "trim": {
         "material": "diamond",
         "pattern": "silence"
@@ -2696,14 +2696,14 @@
     "item1": {
       "id": "netherite_chestplate",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "trim": {
         "material": "diamond",
         "pattern": "silence"
       }
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2711,16 +2711,16 @@
     "resultItem": {
       "id": "leather_leggings",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "leather_leggings",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2728,8 +2728,8 @@
     "resultItem": {
       "id": "light_blue_banner",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "banner_pattern": [
         {
           "color": "yellow",
@@ -2744,8 +2744,8 @@
     "item1": {
       "id": "light_blue_banner",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "banner_pattern": [
         {
           "color": "yellow",
@@ -2757,7 +2757,7 @@
         }
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2765,8 +2765,8 @@
     "resultItem": {
       "id": "shield",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "shield": "white",
       "banner_pattern": [
         {
@@ -2806,8 +2806,8 @@
     "item1": {
       "id": "shield",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "shield": "white",
       "banner_pattern": [
         {
@@ -2844,7 +2844,7 @@
         }
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2852,16 +2852,16 @@
     "resultItem": {
       "id": "tipped_arrow_thick",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "tipped_arrow_thick",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2869,16 +2869,16 @@
     "resultItem": {
       "id": "potion_thick",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "potion_thick",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2886,16 +2886,16 @@
     "resultItem": {
       "id": "splash_potion_thick",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "splash_potion_thick",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2903,16 +2903,16 @@
     "resultItem": {
       "id": "lingering_potion_thick",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "lingering_potion_thick",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2920,8 +2920,8 @@
     "resultItem": {
       "id": "acacia_sapling",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "lore": [
         "<b>Lo</b><b>r</b><s><b>em </b></s><span style=\"color:#00AA00\"><s><b>ipsum dolor sit amet, conse</b></s></span><span style=\"color:#00AA00\"><s><b>ctetur adipiscing elit, sed do eiusm</b></s></span><span style=\"color:#00AA00\"><s><b>od </b></s></span><span style=\"color:#99FFCC\"><s><b>tempor incididunt ut labore et dolo</b></s></span><span style=\"color:#99FFCC\"><b>re magna aliqua. Ut enim ad minim venia</b></span><span style=\"color:#99FFCC\"><b>m, qu</b></span><span style=\"color:#99FFCC\"><u><b>is nostrud exercitation ullamco laboris nisi ut aliquip ex ea co</b></u></span><span style=\"color:#222222\"><u><b>mmodo</b></u></span><span style=\"color:#222222\"><b> consequat. Duis aute irure dolor in r</b></span><span style=\"color:#222222\"><s><b>eprehenderit in voluptate velit es</b></s></span><span style=\"color:#222222\"><s><u><b>se cillum dolore eu fugiat nulla pariat</b></u></s></span><span style=\"color:#0033FF\"><s><u><b>ur. Exc</b></u></s></span><span style=\"color:#0033FF\"><u><b>epteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese</b></u></span><u><b>ru</b></u><b>nt mollit anim id est laborum.</b>"
       ]
@@ -2929,13 +2929,13 @@
     "item1": {
       "id": "acacia_sapling",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "lore": [
         "<b>Lo</b><b>r</b><s><b>em </b></s><span style=\"color:#00AA00\"><s><b>ipsum dolor sit amet, conse</b></s></span><span style=\"color:#00AA00\"><s><b>ctetur adipiscing elit, sed do eiusm</b></s></span><span style=\"color:#00AA00\"><s><b>od </b></s></span><span style=\"color:#99FFCC\"><s><b>tempor incididunt ut labore et dolo</b></s></span><span style=\"color:#99FFCC\"><b>re magna aliqua. Ut enim ad minim venia</b></span><span style=\"color:#99FFCC\"><b>m, qu</b></span><span style=\"color:#99FFCC\"><u><b>is nostrud exercitation ullamco laboris nisi ut aliquip ex ea co</b></u></span><span style=\"color:#222222\"><u><b>mmodo</b></u></span><span style=\"color:#222222\"><b> consequat. Duis aute irure dolor in r</b></span><span style=\"color:#222222\"><s><b>eprehenderit in voluptate velit es</b></s></span><span style=\"color:#222222\"><s><u><b>se cillum dolore eu fugiat nulla pariat</b></u></s></span><span style=\"color:#0033FF\"><s><u><b>ur. Exc</b></u></s></span><span style=\"color:#0033FF\"><u><b>epteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese</b></u></span><u><b>ru</b></u><b>nt mollit anim id est laborum.</b>"
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -2953,103 +2953,103 @@
               "pos": 0,
               "id": "lily_of_the_valley",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 1,
               "id": "wither_rose",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 2,
               "id": "open_eyeblossom",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 3,
               "id": "closed_eyeblossom",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 4,
               "id": "warped_fungus",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 5,
               "id": "pale_hanging_moss",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 6,
               "id": "honeycomb",
               "amount": 2,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 7,
               "id": "fire_charge",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 8,
               "id": "heart_of_the_sea",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 9,
               "id": "nautilus_shell",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 10,
               "id": "panda_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 11,
               "id": "redstone_torch",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 12,
               "id": "coal",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 13,
               "id": "flint",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 14,
               "id": "bone",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 15,
               "id": "lead",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 16,
               "id": "bone_meal",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             }
           ]
         },
@@ -3062,102 +3062,102 @@
               "pos": 0,
               "id": "tripwire_hook",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 1,
               "id": "waxed_weathered_copper_bulb",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 2,
               "id": "decorated_pot",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 3,
               "id": "composter",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 4,
               "id": "observer",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 5,
               "id": "note_block",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 6,
               "id": "chest",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 7,
               "id": "lightning_rod",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 8,
               "id": "daylight_detector",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 9,
               "id": "light_weighted_pressure_plate",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 10,
               "id": "heavy_weighted_pressure_plate",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 11,
               "id": "turtle_scute",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 12,
               "id": "gold_ingot",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 13,
               "id": "netherite_ingot",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 14,
               "id": "lead",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 15,
               "id": "bone_meal",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             }
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -3172,103 +3172,103 @@
               "pos": 0,
               "id": "lily_of_the_valley",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 1,
               "id": "wither_rose",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 2,
               "id": "open_eyeblossom",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 3,
               "id": "closed_eyeblossom",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 4,
               "id": "warped_fungus",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 5,
               "id": "pale_hanging_moss",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 6,
               "id": "honeycomb",
               "amount": 2,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 7,
               "id": "fire_charge",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 8,
               "id": "heart_of_the_sea",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 9,
               "id": "nautilus_shell",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 10,
               "id": "panda_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 11,
               "id": "redstone_torch",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 12,
               "id": "coal",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 13,
               "id": "flint",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 14,
               "id": "bone",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 15,
               "id": "lead",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 16,
               "id": "bone_meal",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             }
           ]
         },
@@ -3281,104 +3281,104 @@
               "pos": 0,
               "id": "tripwire_hook",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 1,
               "id": "waxed_weathered_copper_bulb",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 2,
               "id": "decorated_pot",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 3,
               "id": "composter",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 4,
               "id": "observer",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 5,
               "id": "note_block",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 6,
               "id": "chest",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 7,
               "id": "lightning_rod",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 8,
               "id": "daylight_detector",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 9,
               "id": "light_weighted_pressure_plate",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 10,
               "id": "heavy_weighted_pressure_plate",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 11,
               "id": "turtle_scute",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 12,
               "id": "gold_ingot",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 13,
               "id": "netherite_ingot",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 14,
               "id": "lead",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 15,
               "id": "bone_meal",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             }
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "3",
@@ -3386,16 +3386,16 @@
     "resultItem": {
       "id": "sentry_armor_trim_smithing_template",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "sentry_armor_trim_smithing_template",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -3408,25 +3408,25 @@
           "slot": 0,
           "id": "firework_rocket",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "firework_power": 1
         },
         {
           "slot": 1,
           "id": "firework_rocket",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "firework_power": 2
         },
         {
           "slot": 2,
           "id": "firework_rocket",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "firework_power": 3
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -3436,27 +3436,27 @@
           "slot": 0,
           "id": "firework_rocket",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "firework_power": 1
         },
         {
           "slot": 1,
           "id": "firework_rocket",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "firework_power": 2
         },
         {
           "slot": 2,
           "id": "firework_rocket",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "firework_power": 3
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -3469,7 +3469,7 @@
           "slot": 0,
           "id": "enchanted_book",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "enchant": [
             {
               "id": "aqua_affinity",
@@ -3642,7 +3642,7 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "white_shulker_box",
@@ -3652,7 +3652,7 @@
           "slot": 0,
           "id": "enchanted_book",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "enchant": [
             {
               "id": "aqua_affinity",
@@ -3825,9 +3825,9 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -3835,18 +3835,18 @@
     "resultItem": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "feel_goat_horn"
     },
     "item1": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "feel_goat_horn"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -3854,8 +3854,8 @@
     "resultItem": {
       "id": "netherite_leggings",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "trim": {
         "material": "amethyst",
         "pattern": "sentry"
@@ -3864,14 +3864,14 @@
     "item1": {
       "id": "netherite_leggings",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "trim": {
         "material": "amethyst",
         "pattern": "sentry"
       }
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -3879,16 +3879,16 @@
     "resultItem": {
       "id": "leather_boots",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "leather_boots",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -3896,8 +3896,8 @@
     "resultItem": {
       "id": "light_blue_banner",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "banner_pattern": [
         {
           "color": "yellow",
@@ -3912,8 +3912,8 @@
     "item1": {
       "id": "light_blue_banner",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "banner_pattern": [
         {
           "color": "yellow",
@@ -3925,7 +3925,7 @@
         }
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -3938,20 +3938,20 @@
           "slot": 0,
           "id": "shield",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "shield",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "shield": "blue"
         },
         {
           "slot": 2,
           "id": "shield",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "shield": "white",
           "banner_pattern": [
             {
@@ -3989,7 +3989,7 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -3999,20 +3999,20 @@
           "slot": 0,
           "id": "shield",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "shield",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "shield": "blue"
         },
         {
           "slot": 2,
           "id": "shield",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "shield": "white",
           "banner_pattern": [
             {
@@ -4050,9 +4050,9 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -4060,16 +4060,16 @@
     "resultItem": {
       "id": "tipped_arrow_awkward",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "tipped_arrow_awkward",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -4077,16 +4077,16 @@
     "resultItem": {
       "id": "potion_awkward",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "potion_awkward",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -4094,16 +4094,16 @@
     "resultItem": {
       "id": "splash_potion_awkward",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "splash_potion_awkward",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -4111,16 +4111,16 @@
     "resultItem": {
       "id": "lingering_potion_awkward",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "lingering_potion_awkward",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -4133,13 +4133,13 @@
           "slot": 0,
           "id": "acacia_sapling",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<b>Lo</b><b>r</b><s><b>em </b></s><span style=\"color:#00AA00\"><s><b>ipsum dolor sit amet, conse</b></s></span><span style=\"color:#00AA00\"><s><b>ctetur adipiscing elit, sed do eiusm</b></s></span><span style=\"color:#00AA00\"><s><b>od </b></s></span><span style=\"color:#99FFCC\"><s><b>tempor incididunt ut labore et dolo</b></s></span><span style=\"color:#99FFCC\"><b>re magna aliqua. Ut enim ad minim venia</b></span><span style=\"color:#99FFCC\"><b>m, qu</b></span><span style=\"color:#99FFCC\"><u><b>is nostrud exercitation ullamco laboris nisi ut aliquip ex ea co</b></u></span><span style=\"color:#222222\"><u><b>mmodo</b></u></span><span style=\"color:#222222\"><b> consequat. Duis aute irure dolor in r</b></span><span style=\"color:#222222\"><s><b>eprehenderit in voluptate velit es</b></s></span><span style=\"color:#222222\"><s><u><b>se cillum dolore eu fugiat nulla pariat</b></u></s></span><span style=\"color:#0033FF\"><s><u><b>ur. Exc</b></u></s></span><span style=\"color:#0033FF\"><u><b>epteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese</b></u></span><u><b>ru</b></u><b>nt mollit anim id est laborum.</b>"
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -4149,15 +4149,15 @@
           "slot": 0,
           "id": "acacia_sapling",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<b>Lo</b><b>r</b><s><b>em </b></s><span style=\"color:#00AA00\"><s><b>ipsum dolor sit amet, conse</b></s></span><span style=\"color:#00AA00\"><s><b>ctetur adipiscing elit, sed do eiusm</b></s></span><span style=\"color:#00AA00\"><s><b>od </b></s></span><span style=\"color:#99FFCC\"><s><b>tempor incididunt ut labore et dolo</b></s></span><span style=\"color:#99FFCC\"><b>re magna aliqua. Ut enim ad minim venia</b></span><span style=\"color:#99FFCC\"><b>m, qu</b></span><span style=\"color:#99FFCC\"><u><b>is nostrud exercitation ullamco laboris nisi ut aliquip ex ea co</b></u></span><span style=\"color:#222222\"><u><b>mmodo</b></u></span><span style=\"color:#222222\"><b> consequat. Duis aute irure dolor in r</b></span><span style=\"color:#222222\"><s><b>eprehenderit in voluptate velit es</b></s></span><span style=\"color:#222222\"><s><u><b>se cillum dolore eu fugiat nulla pariat</b></u></s></span><span style=\"color:#0033FF\"><s><u><b>ur. Exc</b></u></s></span><span style=\"color:#0033FF\"><u><b>epteur sint occaecat cupidatat non proident, sunt in culpa qui officia dese</b></u></span><u><b>ru</b></u><b>nt mollit anim id est laborum.</b>"
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -4171,308 +4171,308 @@
           "pos": 0,
           "id": "trial_spawner",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 1,
           "id": "spawner",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 2,
           "id": "llama_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 3,
           "id": "ghast_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 4,
           "id": "allay_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 5,
           "id": "blaze_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 6,
           "id": "cow_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 7,
           "id": "cave_spider_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 8,
           "id": "hoglin_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 9,
           "id": "parrot_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 10,
           "id": "pig_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 11,
           "id": "jukebox",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 12,
           "id": "redstone_ore",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 13,
           "id": "tnt",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 14,
           "id": "crafter",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 15,
           "id": "brown_banner",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 16,
           "id": "purple_wool",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 17,
           "id": "cobweb",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 18,
           "id": "bedrock",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 19,
           "id": "sculk_catalyst",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 20,
           "id": "bubble_coral_block",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 21,
           "id": "sunflower",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 22,
           "id": "cherry_sapling",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 23,
           "id": "pale_hanging_moss",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 24,
           "id": "lime_banner",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 25,
           "id": "dragon_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 26,
           "id": "vault",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 27,
           "id": "piglin_head",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 28,
           "id": "dragon_head",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 29,
           "id": "zombie_head",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 30,
           "id": "tinted_glass",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 31,
           "id": "decorated_pot",
           "amount": 2,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 32,
           "id": "flower_pot",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 33,
           "id": "blue_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 34,
           "id": "wind_charge",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 35,
           "id": "snowball",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 36,
           "id": "end_crystal",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 37,
           "id": "firework_rocket",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "firework_power": 3
         },
         {
           "pos": 38,
           "id": "tipped_arrow_water",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 39,
           "id": "rib_armor_trim_smithing_template",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 40,
           "id": "silence_armor_trim_smithing_template",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 41,
           "id": "heart_pottery_sherd",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 42,
           "id": "friend_pottery_sherd",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 43,
           "id": "burn_pottery_sherd",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 44,
           "id": "fire_charge",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 45,
           "id": "lime_wool",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 46,
           "id": "waxed_cut_copper_slab",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 47,
           "id": "weathered_copper_bulb",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 48,
           "id": "waxed_copper_grate",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 49,
           "id": "netherite_block",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 50,
           "id": "acacia_sapling",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -4498,314 +4498,314 @@
     "item1": {
       "id": "black_bundle",
       "amount": 1,
-      "content": [],
+      "content": [ ],
       "bundle": [
         {
           "pos": 0,
           "id": "trial_spawner",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 1,
           "id": "spawner",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 2,
           "id": "llama_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 3,
           "id": "ghast_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 4,
           "id": "allay_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 5,
           "id": "blaze_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 6,
           "id": "cow_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 7,
           "id": "cave_spider_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 8,
           "id": "hoglin_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 9,
           "id": "parrot_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 10,
           "id": "pig_spawn_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 11,
           "id": "jukebox",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 12,
           "id": "redstone_ore",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 13,
           "id": "tnt",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 14,
           "id": "crafter",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 15,
           "id": "brown_banner",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 16,
           "id": "purple_wool",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 17,
           "id": "cobweb",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 18,
           "id": "bedrock",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 19,
           "id": "sculk_catalyst",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 20,
           "id": "bubble_coral_block",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 21,
           "id": "sunflower",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 22,
           "id": "cherry_sapling",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 23,
           "id": "pale_hanging_moss",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 24,
           "id": "lime_banner",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 25,
           "id": "dragon_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 26,
           "id": "vault",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 27,
           "id": "piglin_head",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 28,
           "id": "dragon_head",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 29,
           "id": "zombie_head",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 30,
           "id": "tinted_glass",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 31,
           "id": "decorated_pot",
           "amount": 2,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 32,
           "id": "flower_pot",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 33,
           "id": "blue_egg",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 34,
           "id": "wind_charge",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 35,
           "id": "snowball",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 36,
           "id": "end_crystal",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 37,
           "id": "firework_rocket",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "firework_power": 3
         },
         {
           "pos": 38,
           "id": "tipped_arrow_water",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 39,
           "id": "rib_armor_trim_smithing_template",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 40,
           "id": "silence_armor_trim_smithing_template",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 41,
           "id": "heart_pottery_sherd",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 42,
           "id": "friend_pottery_sherd",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 43,
           "id": "burn_pottery_sherd",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 44,
           "id": "fire_charge",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 45,
           "id": "lime_wool",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 46,
           "id": "waxed_cut_copper_slab",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 47,
           "id": "weathered_copper_bulb",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 48,
           "id": "waxed_copper_grate",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 49,
           "id": "netherite_block",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "pos": 50,
           "id": "acacia_sapling",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -4828,7 +4828,7 @@
         }
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "4",
@@ -4836,16 +4836,16 @@
     "resultItem": {
       "id": "bolt_armor_trim_smithing_template",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "bolt_armor_trim_smithing_template",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -4853,18 +4853,18 @@
     "resultItem": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "admire_goat_horn"
     },
     "item1": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "admire_goat_horn"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -4877,19 +4877,19 @@
           "slot": 0,
           "id": "netherite_chestplate",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "netherite_leggings",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "netherite_chestplate",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "trim": {
             "material": "diamond",
             "pattern": "silence"
@@ -4899,14 +4899,14 @@
           "slot": 3,
           "id": "netherite_leggings",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "trim": {
             "material": "amethyst",
             "pattern": "sentry"
           }
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "yellow_shulker_box",
@@ -4916,19 +4916,19 @@
           "slot": 0,
           "id": "netherite_chestplate",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "netherite_leggings",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "netherite_chestplate",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "trim": {
             "material": "diamond",
             "pattern": "silence"
@@ -4938,16 +4938,16 @@
           "slot": 3,
           "id": "netherite_leggings",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "trim": {
             "material": "amethyst",
             "pattern": "sentry"
           }
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -4960,28 +4960,28 @@
           "slot": 0,
           "id": "leather_helmet",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "leather_chestplate",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "leather_leggings",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "leather_boots",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "red_shulker_box",
@@ -4991,30 +4991,30 @@
           "slot": 0,
           "id": "leather_helmet",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "leather_chestplate",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "leather_leggings",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "leather_boots",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -5027,7 +5027,7 @@
           "slot": 0,
           "id": "light_blue_banner",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "banner_pattern": [
             {
               "color": "yellow",
@@ -5043,7 +5043,7 @@
           "slot": 1,
           "id": "light_blue_banner",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "banner_pattern": [
             {
               "color": "yellow",
@@ -5056,7 +5056,7 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -5066,7 +5066,7 @@
           "slot": 0,
           "id": "light_blue_banner",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "banner_pattern": [
             {
               "color": "yellow",
@@ -5082,7 +5082,7 @@
           "slot": 1,
           "id": "light_blue_banner",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "banner_pattern": [
             {
               "color": "yellow",
@@ -5095,9 +5095,9 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -5105,16 +5105,16 @@
     "resultItem": {
       "id": "tipped_arrow_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "tipped_arrow_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -5122,16 +5122,16 @@
     "resultItem": {
       "id": "potion_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "potion_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -5139,16 +5139,16 @@
     "resultItem": {
       "id": "splash_potion_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "splash_potion_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -5156,16 +5156,16 @@
     "resultItem": {
       "id": "lingering_potion_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "lingering_potion_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -5173,8 +5173,8 @@
     "resultItem": {
       "id": "acacia_sapling",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "lore": [
         "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
         "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -5198,8 +5198,8 @@
     "item1": {
       "id": "acacia_sapling",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "lore": [
         "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
         "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -5220,7 +5220,7 @@
         "<span style=\"color:#FFFFFF\"><b>anim id est la</b></span><span style=\"color:#FFFFFF\"><u><b>b</b></u></span><span style=\"color:#FFFFFF\"><s><b>o</b></s></span><span style=\"color:#FFFFFF\"><b>rum.</b></span>"
       ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -5238,308 +5238,308 @@
               "pos": 0,
               "id": "trial_spawner",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 1,
               "id": "spawner",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 2,
               "id": "llama_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 3,
               "id": "ghast_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 4,
               "id": "allay_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 5,
               "id": "blaze_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 6,
               "id": "cow_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 7,
               "id": "cave_spider_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 8,
               "id": "hoglin_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 9,
               "id": "parrot_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 10,
               "id": "pig_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 11,
               "id": "jukebox",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 12,
               "id": "redstone_ore",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 13,
               "id": "tnt",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 14,
               "id": "crafter",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 15,
               "id": "brown_banner",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 16,
               "id": "purple_wool",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 17,
               "id": "cobweb",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 18,
               "id": "bedrock",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 19,
               "id": "sculk_catalyst",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 20,
               "id": "bubble_coral_block",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 21,
               "id": "sunflower",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 22,
               "id": "cherry_sapling",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 23,
               "id": "pale_hanging_moss",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 24,
               "id": "lime_banner",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 25,
               "id": "dragon_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 26,
               "id": "vault",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 27,
               "id": "piglin_head",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 28,
               "id": "dragon_head",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 29,
               "id": "zombie_head",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 30,
               "id": "tinted_glass",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 31,
               "id": "decorated_pot",
               "amount": 2,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 32,
               "id": "flower_pot",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 33,
               "id": "blue_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 34,
               "id": "wind_charge",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 35,
               "id": "snowball",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 36,
               "id": "end_crystal",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 37,
               "id": "firework_rocket",
               "amount": 1,
-              "bundle": [],
+              "bundle": [ ],
               "firework_power": 3
             },
             {
               "pos": 38,
               "id": "tipped_arrow_water",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 39,
               "id": "rib_armor_trim_smithing_template",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 40,
               "id": "silence_armor_trim_smithing_template",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 41,
               "id": "heart_pottery_sherd",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 42,
               "id": "friend_pottery_sherd",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 43,
               "id": "burn_pottery_sherd",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 44,
               "id": "fire_charge",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 45,
               "id": "lime_wool",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 46,
               "id": "waxed_cut_copper_slab",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 47,
               "id": "weathered_copper_bulb",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 48,
               "id": "waxed_copper_grate",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 49,
               "id": "netherite_block",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 50,
               "id": "acacia_sapling",
               "amount": 1,
-              "bundle": [],
+              "bundle": [ ],
               "lore": [
                 "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
                 "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -5563,7 +5563,7 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -5578,308 +5578,308 @@
               "pos": 0,
               "id": "trial_spawner",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 1,
               "id": "spawner",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 2,
               "id": "llama_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 3,
               "id": "ghast_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 4,
               "id": "allay_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 5,
               "id": "blaze_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 6,
               "id": "cow_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 7,
               "id": "cave_spider_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 8,
               "id": "hoglin_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 9,
               "id": "parrot_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 10,
               "id": "pig_spawn_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 11,
               "id": "jukebox",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 12,
               "id": "redstone_ore",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 13,
               "id": "tnt",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 14,
               "id": "crafter",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 15,
               "id": "brown_banner",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 16,
               "id": "purple_wool",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 17,
               "id": "cobweb",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 18,
               "id": "bedrock",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 19,
               "id": "sculk_catalyst",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 20,
               "id": "bubble_coral_block",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 21,
               "id": "sunflower",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 22,
               "id": "cherry_sapling",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 23,
               "id": "pale_hanging_moss",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 24,
               "id": "lime_banner",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 25,
               "id": "dragon_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 26,
               "id": "vault",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 27,
               "id": "piglin_head",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 28,
               "id": "dragon_head",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 29,
               "id": "zombie_head",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 30,
               "id": "tinted_glass",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 31,
               "id": "decorated_pot",
               "amount": 2,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 32,
               "id": "flower_pot",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 33,
               "id": "blue_egg",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 34,
               "id": "wind_charge",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 35,
               "id": "snowball",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 36,
               "id": "end_crystal",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 37,
               "id": "firework_rocket",
               "amount": 1,
-              "bundle": [],
+              "bundle": [ ],
               "firework_power": 3
             },
             {
               "pos": 38,
               "id": "tipped_arrow_water",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 39,
               "id": "rib_armor_trim_smithing_template",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 40,
               "id": "silence_armor_trim_smithing_template",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 41,
               "id": "heart_pottery_sherd",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 42,
               "id": "friend_pottery_sherd",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 43,
               "id": "burn_pottery_sherd",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 44,
               "id": "fire_charge",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 45,
               "id": "lime_wool",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 46,
               "id": "waxed_cut_copper_slab",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 47,
               "id": "weathered_copper_bulb",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 48,
               "id": "waxed_copper_grate",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 49,
               "id": "netherite_block",
               "amount": 1,
-              "bundle": []
+              "bundle": [ ]
             },
             {
               "pos": 50,
               "id": "acacia_sapling",
               "amount": 1,
-              "bundle": [],
+              "bundle": [ ],
               "lore": [
                 "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
                 "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -5903,9 +5903,9 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "5",
@@ -5913,16 +5913,16 @@
     "resultItem": {
       "id": "flow_armor_trim_smithing_template",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "flow_armor_trim_smithing_template",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "6",
@@ -5930,18 +5930,18 @@
     "resultItem": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "call_goat_horn"
     },
     "item1": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "call_goat_horn"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "6",
@@ -5949,18 +5949,18 @@
     "resultItem": {
       "id": "leather_helmet",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "leather_color": "#A4B7B5"
     },
     "item1": {
       "id": "leather_helmet",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "leather_color": "#A4B7B5"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "6",
@@ -5968,16 +5968,16 @@
     "resultItem": {
       "id": "light_blue_banner",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "light_blue_banner",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "6",
@@ -5985,16 +5985,16 @@
     "resultItem": {
       "id": "tipped_arrow_long_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "tipped_arrow_long_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "6",
@@ -6002,16 +6002,16 @@
     "resultItem": {
       "id": "potion_long_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "potion_long_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "6",
@@ -6019,16 +6019,16 @@
     "resultItem": {
       "id": "splash_potion_long_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "splash_potion_long_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "6",
@@ -6036,16 +6036,16 @@
     "resultItem": {
       "id": "lingering_potion_long_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "lingering_potion_long_night_vision",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "6",
@@ -6058,7 +6058,7 @@
           "slot": 0,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6083,7 +6083,7 @@
           "slot": 1,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6108,7 +6108,7 @@
           "slot": 2,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6133,7 +6133,7 @@
           "slot": 3,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6158,7 +6158,7 @@
           "slot": 4,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6183,7 +6183,7 @@
           "slot": 5,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6208,7 +6208,7 @@
           "slot": 6,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6233,7 +6233,7 @@
           "slot": 7,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6258,7 +6258,7 @@
           "slot": 8,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6283,7 +6283,7 @@
           "slot": 9,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6308,7 +6308,7 @@
           "slot": 10,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6333,7 +6333,7 @@
           "slot": 11,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6358,7 +6358,7 @@
           "slot": 12,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6383,7 +6383,7 @@
           "slot": 13,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6408,7 +6408,7 @@
           "slot": 14,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6433,7 +6433,7 @@
           "slot": 15,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6458,7 +6458,7 @@
           "slot": 16,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6483,7 +6483,7 @@
           "slot": 17,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6508,7 +6508,7 @@
           "slot": 18,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6533,7 +6533,7 @@
           "slot": 19,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6558,7 +6558,7 @@
           "slot": 20,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6583,7 +6583,7 @@
           "slot": 21,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6608,7 +6608,7 @@
           "slot": 22,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6633,7 +6633,7 @@
           "slot": 23,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6658,7 +6658,7 @@
           "slot": 24,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6683,7 +6683,7 @@
           "slot": 25,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6708,7 +6708,7 @@
           "slot": 26,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6730,7 +6730,7 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -6740,7 +6740,7 @@
           "slot": 0,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6765,7 +6765,7 @@
           "slot": 1,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6790,7 +6790,7 @@
           "slot": 2,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6815,7 +6815,7 @@
           "slot": 3,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6840,7 +6840,7 @@
           "slot": 4,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6865,7 +6865,7 @@
           "slot": 5,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6890,7 +6890,7 @@
           "slot": 6,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6915,7 +6915,7 @@
           "slot": 7,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6940,7 +6940,7 @@
           "slot": 8,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6965,7 +6965,7 @@
           "slot": 9,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -6990,7 +6990,7 @@
           "slot": 10,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7015,7 +7015,7 @@
           "slot": 11,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7040,7 +7040,7 @@
           "slot": 12,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7065,7 +7065,7 @@
           "slot": 13,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7090,7 +7090,7 @@
           "slot": 14,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7115,7 +7115,7 @@
           "slot": 15,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7140,7 +7140,7 @@
           "slot": 16,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7165,7 +7165,7 @@
           "slot": 17,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7190,7 +7190,7 @@
           "slot": 18,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7215,7 +7215,7 @@
           "slot": 19,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7240,7 +7240,7 @@
           "slot": 20,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7265,7 +7265,7 @@
           "slot": 21,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7290,7 +7290,7 @@
           "slot": 22,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7315,7 +7315,7 @@
           "slot": 23,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7340,7 +7340,7 @@
           "slot": 24,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7365,7 +7365,7 @@
           "slot": 25,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7390,7 +7390,7 @@
           "slot": 26,
           "id": "acacia_sapling",
           "amount": 64,
-          "bundle": [],
+          "bundle": [ ],
           "lore": [
             "<span style=\"color:#FFFFFF\"><b>Lo</b></span><span style=\"color:#FFFFFF\"><b>r</b></span><span style=\"color:#FFFFFF\"><s><b>em</b></s></span><span style=\"color:#222222\"><s><b> ipsum dolor sit amet,</b></s></span>",
             "<span style=\"color:#222222\"><s><b>conse</b></s></span><span style=\"color:#222222\"><s><b>ctetur adipiscing elit, sed do</b></s></span>",
@@ -7412,9 +7412,9 @@
           ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "7",
@@ -7422,18 +7422,18 @@
     "resultItem": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "yearn_goat_horn"
     },
     "item1": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "yearn_goat_horn"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "7",
@@ -7441,18 +7441,18 @@
     "resultItem": {
       "id": "leather_chestplate",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "leather_color": "#623BB1"
     },
     "item1": {
       "id": "leather_chestplate",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "leather_color": "#623BB1"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "7",
@@ -7460,16 +7460,16 @@
     "resultItem": {
       "id": "globe_banner_pattern",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
     "item1": {
       "id": "globe_banner_pattern",
       "amount": 1,
-      "content": [],
-      "bundle": []
+      "content": [ ],
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "7",
@@ -7482,40 +7482,40 @@
           "slot": 0,
           "id": "tipped_arrow_water",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "tipped_arrow_mundane",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "tipped_arrow_thick",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "tipped_arrow_awkward",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 4,
           "id": "tipped_arrow_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 5,
           "id": "tipped_arrow_long_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -7525,42 +7525,42 @@
           "slot": 0,
           "id": "tipped_arrow_water",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "tipped_arrow_mundane",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "tipped_arrow_thick",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "tipped_arrow_awkward",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 4,
           "id": "tipped_arrow_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 5,
           "id": "tipped_arrow_long_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "7",
@@ -7573,40 +7573,40 @@
           "slot": 0,
           "id": "potion_water",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "potion_mundane",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "potion_thick",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "potion_awkward",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 4,
           "id": "potion_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 5,
           "id": "potion_long_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -7616,42 +7616,42 @@
           "slot": 0,
           "id": "potion_water",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "potion_mundane",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "potion_thick",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "potion_awkward",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 4,
           "id": "potion_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 5,
           "id": "potion_long_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "7",
@@ -7664,40 +7664,40 @@
           "slot": 0,
           "id": "splash_potion_water",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "splash_potion_mundane",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "splash_potion_thick",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "splash_potion_awkward",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 4,
           "id": "splash_potion_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 5,
           "id": "splash_potion_long_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -7707,42 +7707,42 @@
           "slot": 0,
           "id": "splash_potion_water",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "splash_potion_mundane",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "splash_potion_thick",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "splash_potion_awkward",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 4,
           "id": "splash_potion_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 5,
           "id": "splash_potion_long_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "7",
@@ -7755,40 +7755,40 @@
           "slot": 0,
           "id": "lingering_potion_water",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "lingering_potion_mundane",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "lingering_potion_thick",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "lingering_potion_awkward",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 4,
           "id": "lingering_potion_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 5,
           "id": "lingering_potion_long_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "pink_shulker_box",
@@ -7798,42 +7798,42 @@
           "slot": 0,
           "id": "lingering_potion_water",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 1,
           "id": "lingering_potion_mundane",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 2,
           "id": "lingering_potion_thick",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 3,
           "id": "lingering_potion_awkward",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 4,
           "id": "lingering_potion_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         },
         {
           "slot": 5,
           "id": "lingering_potion_long_night_vision",
           "amount": 1,
-          "bundle": []
+          "bundle": [ ]
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "8",
@@ -7841,18 +7841,18 @@
     "resultItem": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "dream_goat_horn"
     },
     "item1": {
       "id": "goat_horn",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "instrument": "dream_goat_horn"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "8",
@@ -7860,18 +7860,18 @@
     "resultItem": {
       "id": "leather_leggings",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "leather_color": "#694FBC"
     },
     "item1": {
       "id": "leather_leggings",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "leather_color": "#694FBC"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "9",
@@ -7884,60 +7884,60 @@
           "slot": 0,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "ponder_goat_horn"
         },
         {
           "slot": 1,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "sing_goat_horn"
         },
         {
           "slot": 2,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "seek_goat_horn"
         },
         {
           "slot": 3,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "feel_goat_horn"
         },
         {
           "slot": 4,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "admire_goat_horn"
         },
         {
           "slot": 5,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "call_goat_horn"
         },
         {
           "slot": 6,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "yearn_goat_horn"
         },
         {
           "slot": 7,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "dream_goat_horn"
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "yellow_shulker_box",
@@ -7947,62 +7947,62 @@
           "slot": 0,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "ponder_goat_horn"
         },
         {
           "slot": 1,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "sing_goat_horn"
         },
         {
           "slot": 2,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "seek_goat_horn"
         },
         {
           "slot": 3,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "feel_goat_horn"
         },
         {
           "slot": 4,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "admire_goat_horn"
         },
         {
           "slot": 5,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "call_goat_horn"
         },
         {
           "slot": 6,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "yearn_goat_horn"
         },
         {
           "slot": 7,
           "id": "goat_horn",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "instrument": "dream_goat_horn"
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "9",
@@ -8010,18 +8010,18 @@
     "resultItem": {
       "id": "leather_boots",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "leather_color": "#9AAAC9"
     },
     "item1": {
       "id": "leather_boots",
       "amount": 1,
-      "content": [],
-      "bundle": [],
+      "content": [ ],
+      "bundle": [ ],
       "leather_color": "#9AAAC9"
     },
-    "item2": {}
+    "item2": { }
   },
   {
     "id": "10",
@@ -8034,32 +8034,32 @@
           "slot": 0,
           "id": "leather_helmet",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "leather_color": "#FACDA2"
         },
         {
           "slot": 1,
           "id": "leather_chestplate",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "leather_color": "#D4797D"
         },
         {
           "slot": 2,
           "id": "leather_leggings",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "leather_color": "#E2C673"
         },
         {
           "slot": 3,
           "id": "leather_boots",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "leather_color": "#F8B173"
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
     "item1": {
       "id": "orange_shulker_box",
@@ -8069,33 +8069,33 @@
           "slot": 0,
           "id": "leather_helmet",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "leather_color": "#FACDA2"
         },
         {
           "slot": 1,
           "id": "leather_chestplate",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "leather_color": "#D4797D"
         },
         {
           "slot": 2,
           "id": "leather_leggings",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "leather_color": "#E2C673"
         },
         {
           "slot": 3,
           "id": "leather_boots",
           "amount": 1,
-          "bundle": [],
+          "bundle": [ ],
           "leather_color": "#F8B173"
         }
       ],
-      "bundle": []
+      "bundle": [ ]
     },
-    "item2": {}
+    "item2": { }
   }
 ]
