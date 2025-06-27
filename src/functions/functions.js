@@ -260,3 +260,18 @@ export async function convertBundle(data, lang, shop, offer, src) {
 
   return await Promise.all(transformedBundle);
 }
+
+export async function convertSuspiciousStew(data, lang, shop, offer, src) {
+  const suspiciousStew = parse(data);
+
+  const duration = suspiciousStew[0].duration.value;
+  const effect = await replaceString(suspiciousStew[0].id);
+
+  const langEffect = jsonLang[`effect.minecraft.${effect}`];
+
+  lang[`suspicious_stew.${effect}`] = langEffect;
+
+  src?.push([langEffect, shop, offer]);
+
+  return { duration, effect };
+}

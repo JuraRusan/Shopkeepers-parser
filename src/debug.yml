@@ -45,7 +45,7 @@
     "z": 2,
     "name": "",
     "owner": "prestig9110",
-    "offers": 10,
+    "offers": 18,
     "object_profession": "none",
     "object_villager_type": "plains"
   },
@@ -146,6 +146,16 @@
     "name": "",
     "owner": "prestig9110",
     "offers": 5,
+    "object_profession": "none",
+    "object_villager_type": "plains"
+  },
+  "d334b6c2-c610-40a7-9568-815376d335e5": {
+    "x": -22,
+    "y": -60,
+    "z": 2,
+    "name": "",
+    "owner": "prestig9110",
+    "offers": 14,
     "object_profession": "none",
     "object_villager_type": "plains"
   }

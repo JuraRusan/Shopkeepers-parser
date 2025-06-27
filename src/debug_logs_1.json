@@ -595,9 +595,107 @@
     "z": 56
   },
   "a4e91e0f-3a33-4058-be8e-c9d6a4dd4bee": {
-    "logs_count": 192,
+    "logs_count": 193,
     "owner_name": "prestig9110",
     "x": 8,
+    "y": -60,
+    "z": 2
+  },
+  "5a2305ac-cca5-4c40-af02-16e848608c3d": {
+    "logs_count": 4,
+    "owner_name": "prestig9110",
+    "x": 6,
+    "y": -60,
+    "z": 2
+  },
+  "93162ba0-f7f3-45ed-8f43-29f0b7487f10": {
+    "logs_count": 11,
+    "owner_name": "prestig9110",
+    "x": 4,
+    "y": -60,
+    "z": 2
+  },
+  "6207611d-6fda-41f8-a792-ad898e661cb5": {
+    "logs_count": 6,
+    "owner_name": "prestig9110",
+    "x": 2,
+    "y": -60,
+    "z": 2
+  },
+  "d6ec2cfd-0117-4a96-81a6-4f1e3afff3ce": {
+    "logs_count": 6,
+    "owner_name": "prestig9110",
+    "x": 0,
+    "y": -60,
+    "z": 2
+  },
+  "5029fb30-8ff0-41ed-aaef-25c73dbf771b": {
+    "logs_count": 50,
+    "owner_name": "prestig9110",
+    "x": -2,
+    "y": -60,
+    "z": 2
+  },
+  "bfec5e7a-127b-4414-b3eb-d5a387657252": {
+    "logs_count": 4,
+    "owner_name": "prestig9110",
+    "x": -4,
+    "y": -60,
+    "z": 2
+  },
+  "bb6000d4-f551-4b64-b181-6c8c9b927a48": {
+    "logs_count": 386,
+    "owner_name": "prestig9110",
+    "x": -6,
+    "y": -60,
+    "z": 2
+  },
+  "a9f197a7-33ae-44ad-8795-e2b8b551aa1a": {
+    "logs_count": 7,
+    "owner_name": "prestig9110",
+    "x": -8,
+    "y": -60,
+    "z": 2
+  },
+  "3b108573-2e89-4b63-b7a7-af9029c6fc87": {
+    "logs_count": 7,
+    "owner_name": "prestig9110",
+    "x": -10,
+    "y": -60,
+    "z": 2
+  },
+  "3ecbbf1f-b5da-4af9-82f2-bf1f4f7ae969": {
+    "logs_count": 7,
+    "owner_name": "prestig9110",
+    "x": -12,
+    "y": -60,
+    "z": 2
+  },
+  "f2f0fae3-8775-4cd5-b873-0da5a5d6a976": {
+    "logs_count": 135,
+    "owner_name": "prestig9110",
+    "x": -14,
+    "y": -60,
+    "z": 2
+  },
+  "34ec6004-33c9-4ce7-952e-d6bccae8cc63": {
+    "logs_count": 195,
+    "owner_name": "prestig9110",
+    "x": -16,
+    "y": -60,
+    "z": 2
+  },
+  "4c4234f0-444a-4349-bce5-166a094fdc32": {
+    "logs_count": 5,
+    "owner_name": "prestig9110",
+    "x": -18,
+    "y": -60,
+    "z": 2
+  },
+  "c24792c4-c0e8-4999-9fa7-dbb4fd70f413": {
+    "logs_count": 257,
+    "owner_name": "prestig9110",
+    "x": -20,
     "y": -60,
     "z": 2
   }
