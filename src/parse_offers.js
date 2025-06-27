@@ -110,9 +110,4 @@ async function selectShops(data) {
   await redis.set("shopkeepers_shops", JSON.stringify(shopsData, null, 2));
 
   redis.quit();
-
-  fs.writeFile(`./src/debug.yml`, JSON.stringify(shopsData, null, 2));
-  fs.writeFile(`./src/debug1.yml`, JSON.stringify(offersData.value, null, 2));
-  fs.writeFile(`./src/debug2.yml`, JSON.stringify(offersData.lang, null, 2));
-  fs.writeFile(`./src/debug3.yml`, JSON.stringify(offersData.src, null, 2));
 })();

@@ -1,5 +1,4 @@
 import Redis from "ioredis";
-import fs from "fs-extra";
 import { parseOld } from "./functions/old.js";
 import { parseYamlStructure } from "./functions/main.js";
 import { getShopkeepersCsvAllLogs } from "../server/RedisRequest.js";
@@ -69,8 +68,6 @@ async function selectLogs(data) {
   const logs = await selectLogs(await getShopkeepersCsvAllLogs());
 
   await redis.set("shopkeepers_traders_log", JSON.stringify(logs, null, 2));
-
-  fs.writeFile(`./src/debug_logs_3.json`, JSON.stringify(logs, null, 2));
 
   redis.quit();
 })();

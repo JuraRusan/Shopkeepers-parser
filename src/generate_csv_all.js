@@ -171,9 +171,6 @@ async function start() {
   await redis.set("shopkeepers_logs_all_traders", JSON.stringify(all, null, 2));
   await redis.set("shopkeepers_csv_all_logs", JSON.stringify(out, null, 2));
 
-  fs.writeFile(`./src/debug_logs_1.json`, JSON.stringify(all, null, 2));
-  fs.writeFile(`./src/debug_logs_2.json`, JSON.stringify(out, null, 2));
-
   database.close();
   redis.quit();
 }
