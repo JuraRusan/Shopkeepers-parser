@@ -1436,7 +1436,7 @@
           "id": "white_banner",
           "amount": 1,
           "bundle": [],
-          "minecraft_custom": "",
+          "minecraft_custom": "<span>Зловещий флаг</span>",
           "banner_pattern": [
             {
               "color": "cyan",
@@ -1484,7 +1484,7 @@
           "id": "white_banner",
           "amount": 1,
           "bundle": [],
-          "minecraft_custom": "",
+          "minecraft_custom": "<span>Зловещий флаг</span>",
           "banner_pattern": [
             {
               "color": "cyan",

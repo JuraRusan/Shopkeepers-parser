@@ -98,7 +98,7 @@ export async function parseContainerStructure(arg, lang, shop, offer, src) {
         ? await convertCustomName(stringify(arg.components["minecraft:custom_name"]))
         : undefined) ||
       (arg.components && arg.components["minecraft:item_name"]
-        ? await convertCustomName(stringify(arg.components["minecraft:item_name"]))
+        ? await convertTranslateName(stringify(arg.components["minecraft:item_name"]))
         : undefined),
     lore:
       arg.components && arg.components["minecraft:lore"]
