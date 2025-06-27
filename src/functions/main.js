@@ -11,6 +11,7 @@ import {
   convertPotion,
   convertShieldColor,
   convertSuspiciousStew,
+  convertTranslateName,
   convertTrim,
   MinecraftId,
 } from "./functions.js";
@@ -32,9 +33,12 @@ export async function parseYamlStructure(arg, lang, shop, offer, src) {
         ? await convertBundle(arg.components["minecraft:bundle_contents"], lang, shop, offer, src)
         : [],
     minecraft_custom:
-      arg.components && arg.components["minecraft:custom_name"]
+      (arg.components && arg.components["minecraft:custom_name"]
         ? await convertCustomName(arg.components["minecraft:custom_name"])
-        : undefined,
+        : undefined) ||
+      (arg.components && arg.components["minecraft:item_name"]
+        ? await convertTranslateName(arg.components["minecraft:item_name"])
+        : undefined),
     lore:
       arg.components && arg.components["minecraft:lore"]
         ? await convertLore(arg.components["minecraft:lore"])
@@ -90,9 +94,12 @@ export async function parseContainerStructure(arg, lang, shop, offer, src) {
         ? await convertBundle(stringify(arg.components["minecraft:bundle_contents"]), lang, shop, offer, src)
         : [],
     minecraft_custom:
-      arg.components && arg.components["minecraft:custom_name"]
+      (arg.components && arg.components["minecraft:custom_name"]
         ? await convertCustomName(stringify(arg.components["minecraft:custom_name"]))
-        : undefined,
+        : undefined) ||
+      (arg.components && arg.components["minecraft:item_name"]
+        ? await convertCustomName(stringify(arg.components["minecraft:item_name"]))
+        : undefined),
     lore:
       arg.components && arg.components["minecraft:lore"]
         ? await convertLore(stringify(arg.components["minecraft:lore"]))

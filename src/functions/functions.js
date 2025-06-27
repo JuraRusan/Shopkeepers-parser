@@ -203,6 +203,12 @@ export async function convertCustomName(data) {
   return result;
 }
 
+export async function convertTranslateName(data) {
+  const str = jsonLang[parse(data).translate];
+
+  return `<span>${str}</span>`;
+}
+
 export async function convertLore(data) {
   const lore = parse(data);
 
