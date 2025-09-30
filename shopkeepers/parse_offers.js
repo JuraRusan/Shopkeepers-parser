@@ -100,7 +100,7 @@ async function selectShops(data) {
   return selectedData;
 }
 
-(async () => {
+export async function Offers() {
   const offersData = await selectOffers(data);
   const shopsData = await selectShops(data);
 
@@ -110,4 +110,4 @@ async function selectShops(data) {
   await redis.set("shopkeepers_shops", JSON.stringify(shopsData, null, 2));
 
   redis.quit();
-})();
+}

@@ -164,7 +164,7 @@ async function parseDB() {
   }
 }
 
-async function start() {
+export async function History() {
   await parseCSV();
   await parseDB();
 
@@ -174,5 +174,3 @@ async function start() {
   database.close();
   redis.quit();
 }
-
-await start();

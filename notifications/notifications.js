@@ -1,11 +1,10 @@
 import Redis from "ioredis";
 import { EmbedBuilder, WebhookClient } from "discord.js";
+import dotenv from "dotenv";
 
-const thresholdDays = 30;
+dotenv.config();
 
-const webhookClient = new WebhookClient({
-  url: "0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
-});
+const webhookClient = new WebhookClient({ url: process.env.WEBHOOK_URL });
 
 async function Embed(user) {
   const deletionTime = Math.floor((user.last_seen + 2592000000) / 1000);
@@ -23,7 +22,7 @@ async function Embed(user) {
     );
 }
 
-async function Notifications() {
+export async function Notifications() {
   let users;
 
   const redis = new Redis();
@@ -57,7 +56,7 @@ async function Notifications() {
       continue;
     }
 
-    const expirationDate = new Date(lastSeenDate.getTime() + thresholdDays * 24 * 60 * 60 * 1000);
+    const expirationDate = new Date(lastSeenDate.getTime() + Number(process.env.THRESHOLD_DAYS) * 24 * 60 * 60 * 1000);
     const daysLeft = Math.floor((expirationDate - currentDate) / (1000 * 60 * 60 * 24));
 
     if (daysLeft <= 7) {
@@ -75,5 +74,3 @@ async function Notifications() {
     }
   }
 }
-
-Notifications();

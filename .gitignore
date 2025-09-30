@@ -7,9 +7,10 @@
 .idea/
 .vs/
 
+.env
 start.bat
 start_redis.bat
-cmi.sqlite.db
+data/cmi.sqlite.db
 
 # testing
 /coverage

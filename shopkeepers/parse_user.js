@@ -78,11 +78,11 @@ async function groupDataByOwner(data) {
   return Object.values(groupedData);
 }
 
-(async () => {
+export async function Users() {
   const userData = await groupDataByOwner(data);
 
   await redis.set("shopkeepers_user_traders", JSON.stringify(userData, null, 2));
 
   db.close();
   redis.quit();
-})();
+}

@@ -2,7 +2,7 @@ import convert from "color-convert";
 import { parse, stringify } from "nbt-ts";
 import { parseContainerStructure } from "./main.js";
 
-import jsonLang from "../../lang.json" assert { type: "json" };
+import jsonLang from "../../data/lang.json" assert { type: "json" };
 
 const colorNames = {
   ...convert.keyword.rgb,

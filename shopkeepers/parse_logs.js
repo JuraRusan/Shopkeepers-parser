@@ -64,10 +64,10 @@ async function selectLogs(data) {
   return selectedData;
 }
 
-(async () => {
+export async function Logs() {
   const logs = await selectLogs(await getShopkeepersCsvAllLogs());
 
   await redis.set("shopkeepers_traders_log", JSON.stringify(logs, null, 2));
 
   redis.quit();
-})();
+}
