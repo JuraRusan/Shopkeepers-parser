@@ -2,10 +2,9 @@ import fs from "fs-extra";
 import Papa from "papaparse";
 import path from "path";
 import yaml from "js-yaml";
-import Redis from "ioredis";
 import Database from "better-sqlite3";
+import { redis } from "../Redis.js";
 
-const redis = new Redis();
 const database = new Database("./trade-logs/trades.db", { readonly: true });
 
 const out = [];
@@ -167,10 +166,7 @@ async function parseDB() {
 export async function History() {
   await parseCSV();
   await parseDB();
-
   await redis.set("shopkeepers_logs_all_traders", JSON.stringify(all, null, 2));
   await redis.set("shopkeepers_csv_all_logs", JSON.stringify(out, null, 2));
-
   database.close();
-  redis.quit();
 }

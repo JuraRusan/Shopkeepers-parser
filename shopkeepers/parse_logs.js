@@ -1,9 +1,7 @@
-import Redis from "ioredis";
+import { redis } from "../Redis.js";
 import { parseOld } from "./functions/old.js";
 import { parseYamlStructure } from "./functions/main.js";
 import { getShopkeepersCsvAllLogs } from "../server/RedisRequest.js";
-
-const redis = new Redis();
 
 const update = 1748166747000; // cплит старого формата
 
@@ -66,8 +64,5 @@ async function selectLogs(data) {
 
 export async function Logs() {
   const logs = await selectLogs(await getShopkeepersCsvAllLogs());
-
   await redis.set("shopkeepers_traders_log", JSON.stringify(logs, null, 2));
-
-  redis.quit();
 }

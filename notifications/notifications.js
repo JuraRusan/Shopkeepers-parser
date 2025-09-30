@@ -56,7 +56,9 @@ export async function Notifications() {
       continue;
     }
 
-    const expirationDate = new Date(lastSeenDate.getTime() + Number(process.env.THRESHOLD_DAYS) * 24 * 60 * 60 * 1000);
+    const expirationDate = new Date(
+      lastSeenDate.getTime() + parseInt(process.env.THRESHOLD_DAYS) * 24 * 60 * 60 * 1000
+    );
     const daysLeft = Math.floor((expirationDate - currentDate) / (1000 * 60 * 60 * 24));
 
     if (daysLeft <= 7) {

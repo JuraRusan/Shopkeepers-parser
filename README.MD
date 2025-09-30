@@ -4,6 +4,9 @@ Create `.env` file
 WEBHOOK_URL=""
 THRESHOLD_DAYS=30
 
-ip="http://127.0.0.1:3000"
-port=4000
+HTTP_IP="http://127.0.0.1:3000"
+HTTP_PORT=4000
+
+REDIS_IP="127.0.0.1"
+REDIS_PORT=6379
 ```
