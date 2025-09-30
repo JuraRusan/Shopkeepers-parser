@@ -1,6 +1,6 @@
 import Redis from "ioredis";
 
-import jsonData from "../data/lang.json" assert { type: "json" };
+import jsonData from "../lang.json" assert { type: "json" };
 
 const redis = new Redis();
 const keys = Object.keys(jsonData);
