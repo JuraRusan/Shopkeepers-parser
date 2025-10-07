@@ -3,7 +3,7 @@ import { parseOld } from "./functions/old.js";
 import { parseYamlStructure } from "./functions/main.js";
 import { getShopkeepersCsvAllLogs } from "../server/RedisRequest.js";
 
-const update = 1748166747000; // cплит старого формата
+const update = 1759654800000; // cплит старого формата
 
 async function selectLogs(data) {
   const selectedData = {};
@@ -14,14 +14,14 @@ async function selectLogs(data) {
     let item2 = {};
     let lang = {};
 
-    // < 1.21
+    // < 1.21.1
     if (update > el.time) {
       item1 = el.item1 ? await parseOld(el.item1) : {};
       item2 = el.item2 ? await parseOld(el.item2) : {};
       resultItem = el.resultItem ? await parseOld(el.resultItem) : {};
     }
 
-    // 1.21 >
+    // 1.21.8 >
     if (update < el.time) {
       item1 = el.item1 ? await parseYamlStructure(el.item1, lang) : {};
       item2 = el.item2 ? await parseYamlStructure(el.item2, lang) : {};
