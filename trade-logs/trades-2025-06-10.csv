@@ -1,0 +1,2 @@
+"time","player_uuid","player_name","shop_uuid","shop_type","shop_world","shop_x","shop_y","shop_z","shop_owner_uuid","shop_owner_name","item1_type","item1_amount","item1_metadata","item2_type","item2_amount","item2_metadata","result_item_type","result_item_amount","result_item_metadata","trade_count"
+"13:25:16","84e1b146-5417-49ab-aae6-79a40fbe9c89","Daesael","a3dc09a2-dc7a-4ec1-a6c9-5dcecdbed5e3","trade","gmgame","-337","84","-36","7f7763ac-5fba-439e-acaa-b8b8a05ea4fa","prestig9110","DEEPSLATE_DIAMOND_ORE","1","{v: 3955}","","","","WITHER_ROSE","16","{v: 3955}","8"
