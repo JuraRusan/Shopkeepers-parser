@@ -76,6 +76,6 @@ export async function Users() {
     return Object.values(groupedData);
   }
 
-  await redis.set("shopkeepers_user_traders", JSON.stringify(await groupDataByOwner(data), null, 2));
+  await redis.set("user_traders", JSON.stringify(await groupDataByOwner(data), null, 2));
   db.close();
 }

@@ -26,7 +26,7 @@ export async function Notifications() {
   let users;
 
   const redis = new Redis();
-  const data = await redis.get("shopkeepers_user_traders");
+  const data = await redis.get("user_traders");
   await redis.quit();
 
   if (!data) {
@@ -61,7 +61,7 @@ export async function Notifications() {
     );
     const daysLeft = Math.floor((expirationDate - currentDate) / (1000 * 60 * 60 * 24));
 
-    if (daysLeft <= 7) {
+    if (daysLeft <= 40) {
       try {
         await webhookClient.send({
           username: "GMGame Shop Notifications",
@@ -69,7 +69,7 @@ export async function Notifications() {
           embeds: [await Embed(user)],
         });
 
-        console.log(`User ${user.owner} — осталось ${daysLeft} дней`);
+        console.log(`\n ${new Date().toISOString()} | User ${user.owner} — осталось ${daysLeft} дней`);
       } catch (error) {
         console.error(`Ошибка при обработке данных ${user.owner}:`, error);
       }

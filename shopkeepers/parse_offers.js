@@ -100,8 +100,8 @@ export async function Offers() {
   const offersData = await selectOffers(data);
   const shopsData = await selectShops(data);
 
-  await redis.set("shopkeepers_offers", JSON.stringify(offersData.value, null, 2));
-  await redis.set("shopkeepers_languages", JSON.stringify(offersData.lang, null, 2));
-  await redis.set("shopkeepers_search", JSON.stringify(offersData.src, null, 2));
-  await redis.set("shopkeepers_shops", JSON.stringify(shopsData, null, 2));
+  await redis.set("offers", JSON.stringify(offersData.value, null, 2));
+  await redis.set("languages", JSON.stringify(offersData.lang, null, 2));
+  await redis.set("search", JSON.stringify(offersData.src, null, 2));
+  await redis.set("shops", JSON.stringify(shopsData, null, 2));
 }

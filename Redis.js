@@ -6,6 +6,7 @@ dotenv.config();
 export const redis = new Redis({
   host: process.env.REDIS_IP,
   port: parseInt(process.env.REDIS_PORT),
+  keyPrefix: "shopkeepers:",
 });
 
 redis.on("error", (err) => console.error("Redis error:", err));
