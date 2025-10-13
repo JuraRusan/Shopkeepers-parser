@@ -7,7 +7,7 @@ import { Logs } from "./parse_logs.js";
 import { History } from "./generate_csv_all.js";
 
 // Каждые 15 минут
-cron.schedule("*/2 * * * *", async () => {
+cron.schedule("*/15 * * * *", async () => {
   await Offers();
   await Users();
 
@@ -20,7 +20,7 @@ cron.schedule("5 0 * * *", async () => {
 });
 
 // Каждый день в 00:02
-cron.schedule("5 0 * * *", async () => {
+cron.schedule("2 0 * * *", async () => {
   await History();
   await Logs();
 
