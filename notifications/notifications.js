@@ -1,6 +1,6 @@
-import Redis from "ioredis";
 import { EmbedBuilder, WebhookClient } from "discord.js";
 import dotenv from "dotenv";
+import { redis } from "../Redis.js";
 
 dotenv.config();
 
@@ -25,12 +25,10 @@ async function Embed(user) {
 export async function Notifications() {
   let users;
 
-  const redis = new Redis();
   const data = await redis.get("user_traders");
-  await redis.quit();
 
   if (!data) {
-    console.warn("Нет данных в Redis по ключу shopkeepers_user_traders");
+    console.warn("Нет данных в Redis по ключу user_traders");
     return;
   }
 
