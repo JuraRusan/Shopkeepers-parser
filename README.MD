@@ -1,7 +1,7 @@
 Create `.env` file
 
 ```env
-WEBHOOK_URL=""
+BEARER_TOKEN=""
 THRESHOLD_DAYS=30
 
 HTTP_IP="http://127.0.0.1:3000"

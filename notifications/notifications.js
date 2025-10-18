@@ -1,26 +1,8 @@
-import { EmbedBuilder, WebhookClient } from "discord.js";
 import dotenv from "dotenv";
 import { redis } from "../Redis.js";
+import axios from "axios";
 
 dotenv.config();
-
-const webhookClient = new WebhookClient({ url: process.env.WEBHOOK_URL });
-
-async function Embed(user) {
-  const deletionTime = Math.floor((user.last_seen + 2592000000) / 1000);
-
-  return new EmbedBuilder()
-    .setTitle(`🛒 Уведомление о магазинах для \`${user.owner}\``)
-    .setColor(0x00ffff)
-    .setDescription(
-      `Это автоматическое уведомление, чтобы игрок случайно не забыл, что <t:${deletionTime}:R> его магазины будут удалены.\n\n` +
-        `Cписок магазинов, которые удаляются: ` +
-        user.villager
-          .map((x) => `[${x.name === "" ? user.owner : x.name}](https://gmgame.ru/shopkeepers?_uuid=${x.uuid})`)
-          .join(", ") +
-        `\n\n_Рекомендуется как можно раньше зайти на основной сервер, чтобы сохранить магазины — время приблизительное и может немного отличаться._`
-    );
-}
 
 export async function Notifications() {
   let users;
@@ -59,15 +41,23 @@ export async function Notifications() {
     );
     const daysLeft = Math.floor((expirationDate - currentDate) / (1000 * 60 * 60 * 24));
 
-    if (daysLeft <= 40) {
+    if (daysLeft <= 7) {
       try {
-        await webhookClient.send({
-          username: "GMGame Shop Notifications",
-          avatarURL: "https://i.imgur.com/AfFp7pu.png",
-          embeds: [await Embed(user)],
-        });
+        await axios
+          .post("http://localhost:6543/api/shopkeepers_notifications", user, {
+            headers: {
+              Authorization: `Bearer ${process.env.BEARER_TOKEN}`,
+              "Content-Type": "application/json",
+            },
+          })
+          .then(function (response) {
+            console.log(response.data.message);
+          })
+          .catch(function (error) {
+            console.log(error);
+          });
 
-        console.log(`\n ${new Date().toISOString()} | User ${user.owner} — осталось ${daysLeft} дней`);
+        console.log(`${new Date().toISOString()} | User ${user.owner} — осталось ${daysLeft} дней\n `);
       } catch (error) {
         console.error(`Ошибка при обработке данных ${user.owner}:`, error);
       }
