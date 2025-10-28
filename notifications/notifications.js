@@ -7,6 +7,7 @@ dotenv.config();
 export async function Notifications() {
   let users;
 
+  const currentDate = new Date();
   const data = await redis.get("user_traders");
 
   if (!data) {
@@ -26,7 +27,19 @@ export async function Notifications() {
     return;
   }
 
-  const currentDate = new Date();
+  await axios
+    .post("http://localhost:6543/api/shopkeepers_statistics", users, {
+      headers: {
+        Authorization: `Bearer ${process.env.BEARER_TOKEN}`,
+        "Content-Type": "application/json",
+      },
+    })
+    .then(function (response) {
+      console.log(response.data.message);
+    })
+    .catch(function (error) {
+      console.log(error);
+    });
 
   for (const user of users) {
     const lastSeenDate = new Date(user.last_seen);
@@ -57,7 +70,7 @@ export async function Notifications() {
             console.log(error);
           });
 
-        console.log(`${new Date().toISOString()} | User ${user.owner} — осталось ${daysLeft} дней\n `);
+        console.log(`${new Date().toISOString()} | User ${user.owner} — осталось ${daysLeft} дней`);
       } catch (error) {
         console.error(`Ошибка при обработке данных ${user.owner}:`, error);
       }
